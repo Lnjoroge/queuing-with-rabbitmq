@@ -1,4 +1,4 @@
-package com.njoroge.rabbitmqdemo.publisher;
+/*package com.njoroge.rabbitmqdemo.publisher;*/
 
 
 import com.njoroge.rabbitmqdemo.config.MessagingConfig;
